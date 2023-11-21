@@ -1,0 +1,18 @@
+{
+  "name": "eagle_eye_api_test",
+  "version": "1.0.0",
+  "description": "ran this in the current directory, in vs studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^6.0.7"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
